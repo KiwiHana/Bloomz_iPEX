@@ -1,5 +1,5 @@
 # Bloomz_iPEX
-bloomz-560m has long 1st token latency 110s by iPEX
+bloomz-560m has long 1st token latency 110s by iPEX on A380
 
 Ubuntu22.04, driver 23.33.027067, kernel 5.15.47
 
